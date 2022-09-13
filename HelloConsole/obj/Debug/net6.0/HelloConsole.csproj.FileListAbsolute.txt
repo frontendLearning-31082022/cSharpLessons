@@ -1,0 +1,15 @@
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.deps.json
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.runtimeconfig.json
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.dll
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/bin/Debug/net6.0/ref/HelloConsole.dll
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/bin/Debug/net6.0/HelloConsole.pdb
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.AssemblyReference.cache
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfoInputs.cache
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.AssemblyInfo.cs
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.csproj.CoreCompileInputs.cache
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.dll
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/ref/HelloConsole.dll
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.pdb
+/home/windowsfucker/Documents/GeekBrainsLearning/Csharp/lesson1/HelloConsole/obj/Debug/net6.0/HelloConsole.genruntimeconfig.cache
